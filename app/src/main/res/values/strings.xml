@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Employee Manager</string>
+    <string name="image_login">Login</string>
+    <string name="username_error">Please make sure you enter the correct username!</string>
+    <string name="pwd_error">Please make sure you enter the correct password!</string>
+    <string name="title1">SETTING</string>
+    <string name="title2">EMPLOYEES</string>
+    <string name="title3">REQUESTS</string>
+    <string name="setting_text1">NOTIFICATION</string>
+    <string name="notif1">New request</string>
+    <string name="notif2">Employee data has been updated</string>
+    <string name="text_off">OFF</string>
+    <string name="text_on">ON</string>
+    <string name="setting_text2">APPEARANCE</string>
+    <string name="theme1">Default theme</string>
+    <string name="theme2">Light theme</string>
+    <string name="theme3">Dark theme</string>
+    <string name="add_employee">ADD NEW EMPLOYEE</string>
+
+    <string name="employee_added">New employee has been added</string>
+    <string name="employee_update">Employee has been updated</string>
+    <string name="employee_delete">Employee has been deleted</string>
+    <string name="submit_error_msg">Personal info cannot be empty</string>
+    <string name="delete_btn">DELETE EMPLOYEE</string>
+    <string name="delete_warn">Please enter \'DELETE\' to confirm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
